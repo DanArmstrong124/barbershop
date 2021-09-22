@@ -1,3 +1,3 @@
-if (scrollY >= 50) {
+if (scrollY >== 50) {
     alert("ya past 50");
 };
