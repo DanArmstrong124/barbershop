@@ -1,10 +1,12 @@
 setInterval(function() {
-    if (scrollY > 50) {
+    var scrollTing = scrollY;
+
+    if (scrollTing > 50) {
         $("logo").addClass('par-logo');
         $("logo").removeClass('logo');
     };
     
-    if (scrollY < 49) {
+    if (scrollTing < 49) {
         $("logo").addClass('logo');
         $("logo").removeClass('par-logo');
     };
