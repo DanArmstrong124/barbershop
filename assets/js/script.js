@@ -1,5 +1,3 @@
- if (scrollY >= 50) {
-        //clearHeader, not clearheader - caps H
-        $("#logo").addClass(".par-logo");
-        $("#nav").addClass(".par-nav");
-    }; //missing );
+if (scrollY >= 50) {
+    alert("ya past 50");
+};
