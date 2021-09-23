@@ -29,3 +29,15 @@
 
     transition-duration: 1s;
 }
+
+.sec1 {
+    padding-top: 150px;
+
+    transition-duration: 1s;
+}
+
+.par-sec1 {
+    padding-top: 75px;
+
+    transition-duration: 1s;
+}
