@@ -4,8 +4,11 @@
 
 ::-webkit-scrollbar-track {
     background: whitesmoke;
+    border-radius: 100vw;
 }
 
 ::-webkit-scrollbar-thumb {
     background: url(../media/img/barberpolescroll.png);
+    border-radius: 100vw;
+    border: .1em solid whitesmoke;
 }
