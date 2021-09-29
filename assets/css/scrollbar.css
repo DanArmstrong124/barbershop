@@ -1,3 +1,11 @@
 ::-webkit-scrollbar {
     width: 1em;
 }
+
+::-webkit-scrollbar-track {
+    background: whitesmoke;
+}
+
+::-webkit-scrollbar-thumb {
+    background: tomato;
+}
